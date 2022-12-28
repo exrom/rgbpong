@@ -50,9 +50,9 @@ I decided to map the four signals to the red, green, blue inputs like this:
 
 |          |   ball   | score & field  |  left    |  right   |
 |----------|----------|----------------|----------|----------|
-| red      |    x     |      x         |    x     |          |
-| green    |    x     |      x         |          |    x     |
-| blue     |    x     |                |    x     |    x     |
+| 🔴 red      |    x     |      x         |    x     |          |
+| 🟢 green    |    x     |      x         |          |    x     |
+| 🔵 blue     |    x     |                |    x     |    x     |
 |----------|----------|----------------|----------|----------|
 | color    |  white   |     yellow     |  purple  | sky blue |
 
