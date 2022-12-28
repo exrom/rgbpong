@@ -67,9 +67,9 @@ I decided to interface to a [SCART connector](https://en.wikipedia.org/wiki/SCAR
 | green video                    |  11   |  0.7 Vpp, 75 ohms             |
 | blue  video                    |  7    |  0.7 Vpp, 75 ohms             |
 | RGB video selection            |  16   |  0..0.4V=composite, 1..3V=RGB |
-| composite video                |  19   |  1 Vpp, 75 ohms               |
-| audio input                    |  1+3  |  0.40 mVrms, > 47K ohms       |
-| GND signals 17,18,5,9,13       |       |                               |
+| composite video                |  20   |  1 Vpp, 75 ohms               |
+| audio input                    |  2+6  |  0.40 mVrms, > 47K ohms       |
+| GND signals 14, 7,18,5,9,13    |       |                               |
 
 ### Circuit
 
@@ -126,3 +126,6 @@ Greetings go to my very good friend Sven.
 
 Happy retro gaming! 
 
+### other retro game projects
+
+[Siemens BILDMEISTER Turnier FZ 2001 video modification](bildmeister.md)
