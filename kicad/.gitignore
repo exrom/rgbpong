@@ -1,0 +1,7 @@
+*-bak
+*-backups
+*-cache*
+*-bak*
+_autosave*
+*~
+*.tmp

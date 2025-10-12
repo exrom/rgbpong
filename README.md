@@ -54,8 +54,9 @@ I decided to map the four signals to the red, green, blue inputs like this:
 | 🟢 green    |    x     |      x         |          |    x     |
 | 🔵 blue     |    x     |                |    x     |    x     |
 |----------|----------|----------------|----------|----------|
-| color    |  white   |     yellow     |  purple  | sky blue |
+| color    | ⚪ white   |    🟡 yellow     | 🟣 purple  | 😱 sky blue |
 
+(there is no unicode char for sky blue - sorry)
 
 ### SCART signals
 
@@ -100,7 +101,7 @@ The 1kOhms R7 pull up is needed because the consoles internal circuitry loads th
 For T1,T2,T3 almost any bipolar npn type should do the job.
 Note: A BC547 has pin out C-B-E but on the board the C is in the middle. It just was easier to route. You need to cross the pins.
 
-The schematic and the board are made with the free version 9.3.2 of [AUTODESK EAGLE](https://www.autodesk.com/products/eagle/free-download)
+The schematic and the board are available for KiCAD 8.0 (thanks to just-some-tall-bloke) and EAGLE.
 
 
 ### Photos
